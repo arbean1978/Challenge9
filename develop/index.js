@@ -1,5 +1,5 @@
 // TODO: Include packages needed for this application
-const {  writeFile, copyFile } = require('./utils/generateFIle.js');
+const {  writeFile, copyFile } = require('./utils/generateFIle.js.js');
 const generateMarkdown = require('./utils/generateMarkdown.js');
 const inquirer = require('inquirer');
 
