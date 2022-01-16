@@ -1,0 +1,22 @@
+{
+  "name": "challenge9",
+  "version": "1.0.0",
+  "description": "Challenge 9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arbean1978/Challenge9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arbean1978/Challenge9/issues"
+  },
+  "homepage": "https://github.com/arbean1978/Challenge9#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
